@@ -1,0 +1,7 @@
+{
+  "name": " FURNEXA ",
+  "description": "A high-end furniture business application featuring AI-powered room analysis, personalized design assistance, and a premium shopping experience.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
